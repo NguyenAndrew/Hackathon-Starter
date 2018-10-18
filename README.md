@@ -2,11 +2,11 @@
 
 Recommended Steps to making a Hackathon MVP (Minimum Viable Product) application:
 
-1. Figure out what prizes you want to go for and/or what problems you want to solve 
-1. Decide on which technology you want to learn
-1. Decide on the approach you will take to solve the problem
+1. Figure out what prizes you want to go for / What problems you want to solve. 
+1. Decide on which technology you want to learn.
+1. Decide on the approach you will take to solve the problem.
 1. Learn how the submission page works for your hackathon, and create a draft of your project submission if possible.
-1. Start creating your project (Would recommend taking a look at the recommended tools below)
+1. Start creating your project (Look at the recommended tools below).
 1. Takes screenshots and videos of your team and app, for both submission and for good memories.
 1. Get ready to submit your app at least 90 minutes before the deadline occurs, in case something goes wrong.
 1. Submit your project, no matter if your project was a success or a failure. Both are important learning experiences to share!
@@ -34,7 +34,7 @@ Recommended Terminal for Mac and Linux:
 
 ---
 
-Recommended Deployment Platform (AKA where others can go to view your project): 
+Recommended Deployment Platform (AKA the tool used so others can go to view your project): 
 * Heroku
 
 ---
