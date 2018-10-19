@@ -51,4 +51,4 @@ Recommended Communication Tool:
 
 Recommended Learning Resources:
 * The sponsors and mentors at the hackathon
-* The official tutorial of whatever tool you are learning.
+* The official tutorial of whatever technology you are learning.
